@@ -1,0 +1,9 @@
+D:\Tugas pendahuluan\KPL\PROJECT\TP_MOD3_1302223027_Kevin Albany\obj\Debug\TP_MOD3_1302223027_Kevin Albany.csproj.AssemblyReference.cache
+D:\Tugas pendahuluan\KPL\PROJECT\TP_MOD3_1302223027_Kevin Albany\obj\Debug\TP_MOD3_1302223027_Kevin Albany.csproj.GenerateResource.cache
+D:\Tugas pendahuluan\KPL\PROJECT\TP_MOD3_1302223027_Kevin Albany\obj\Debug\TP_MOD3_1302223027_Kevin Albany.csproj.CoreCompileInputs.cache
+D:\Tugas pendahuluan\KPL\PROJECT\TP_MOD3_1302223027_Kevin Albany\bin\Debug\TP_MOD3_1302223027_Kevin Albany.dll
+D:\Tugas pendahuluan\KPL\PROJECT\TP_MOD3_1302223027_Kevin Albany\bin\Debug\TP_MOD3_1302223027_Kevin Albany.pdb
+D:\Tugas pendahuluan\KPL\PROJECT\TP_MOD3_1302223027_Kevin Albany\obj\Debug\TP_MOD3_1302223027_Kevin_Albany.Properties.Resources.resources
+D:\Tugas pendahuluan\KPL\PROJECT\TP_MOD3_1302223027_Kevin Albany\obj\Debug\TP_MOD3_1302223027_Kevin_Albany.UserControl1.resources
+D:\Tugas pendahuluan\KPL\PROJECT\TP_MOD3_1302223027_Kevin Albany\obj\Debug\TP_MOD3_1302223027_Kevin Albany.dll
+D:\Tugas pendahuluan\KPL\PROJECT\TP_MOD3_1302223027_Kevin Albany\obj\Debug\TP_MOD3_1302223027_Kevin Albany.pdb
